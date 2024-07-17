@@ -8,4 +8,4 @@
 
 
 # Incredimod Packs
-* * [Coldbox Plus](https://github.com/Incredimods/Coldbox-Plus)
+* [Coldbox Plus](https://github.com/Incredimods/Coldbox-Plus)
